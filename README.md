@@ -1,10 +1,13 @@
 <h2 align="center">
-Disney_app_clone
-<br/>
 
+Disney_app_clone<div align="center">
+
+ <div>
+  <img alt="Demo" width=600 src="img_DisneyApp.png" />
+</div>
 </h2>
-
 <br/>
+
 
 
 # Getting Started
